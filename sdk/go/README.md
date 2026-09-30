@@ -10,4 +10,4 @@ See [docs/sdk-regeneration.md](../../docs/sdk-regeneration.md) for the full cros
 python3 scripts/generate_sdk_models.py --language go
 ```
 
-Generated models live in `github.com/Depo-dev/trident/sdk/go/openapi`.
+Generated models live in `github.com/Telocel-Labs/Trident/sdk/go/openapi`.
